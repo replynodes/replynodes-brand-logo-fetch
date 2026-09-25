@@ -4,7 +4,7 @@ description: "Fetch brand identity and assets from any website or domain — com
 license: MIT
 metadata:
   author: ReplyNodes
-  version: "1.0.0"
+  version: "1.0.1"
   repository: https://github.com/replynodes/replynodes-brand-logo-fetch
   endpoint: https://brand.replynodes.com
   keywords: [brand, brand kit, brand assets, brand identity, logo, company logo, brand colors, brand fonts, extract brand, website branding]
